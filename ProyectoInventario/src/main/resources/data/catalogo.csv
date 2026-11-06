@@ -1,0 +1,13 @@
+codigo;nombre;categoria;stock
+SSD-500;Disco SSD 500 GB;Almacenamiento;12
+SSD-1T;Disco SSD 1 TB;Almacenamiento;7
+HDD-2T;Disco duro 2 TB;Almacenamiento;4
+RAM-16;Módulo de memoria DDR4 16 GB;Memoria;8
+RAM-8;Módulo de memoria DDR4 8 GB;Memoria;15
+CPU-6C;Procesador de 6 núcleos;Procesadores;3
+MB-ATX;Placa base ATX;Placas base;2
+PSU-650;Fuente de alimentación 650 W;Alimentación;5
+GPU-8G;Tarjeta gráfica 8 GB;Gráficos;3
+FAN-120;Ventilador de caja 120 mm;Refrigeración;20
+KB-ES;Teclado en español;Periféricos;9
+MON-24;Monitor de 24 pulgadas;Periféricos;6
